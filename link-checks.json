@@ -1,0 +1,460 @@
+{
+  "checked_on": "2026-09-17",
+  "results": [
+    {
+      "url": "https://arxiv.org/abs/2608.27454",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.27454",
+      "title": "[2608.27454] WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+      "bytes": 42904
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00065",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.00065",
+      "title": "[2609.00065] Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents",
+      "bytes": 42282
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00549",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.00549",
+      "title": "[2609.00549] Skill Following: Evaluating Actual Skill Use in Retrieval-Enabled LLM Agents",
+      "bytes": 41062
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01481",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.01481",
+      "title": "[2609.01481] Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement",
+      "bytes": 43967
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01487",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.01487",
+      "title": "[2609.01487] Defense-as-Skill: Evolving Runtime Guard Skill for Skill-Augmented Agents",
+      "bytes": 43301
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.01588",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.01588",
+      "title": "[2609.01588] Designing Proactive Thought Partners for Writing",
+      "bytes": 41280
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02042",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.02042",
+      "title": "[2609.02042] Act More, Decide Less: Skill-Guided Adaptive Action Chunking for Long-Horizon LLM Agents",
+      "bytes": 43103
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02094",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.02094",
+      "title": "[2609.02094] MASkills: Continual Skills Optimization for Multi-Agent LLM Systems",
+      "bytes": 41483
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02737",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.02737",
+      "title": "[2609.02737] Language Models Can Control Their Own Attention",
+      "bytes": 42180
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.03582",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.03582",
+      "title": "[2609.03582] WeatherNext 3: Increasing resolution and performance of global weather models with raw observations",
+      "bytes": 47324
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.03753",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.03753",
+      "title": "[2609.03753] SimSkill: A Self-Evolving LLM Agent for Skill and Knowledge Accumulation in Traffic Simulation",
+      "bytes": 42914
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.04170",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.04170",
+      "title": "[2609.04170] A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+      "bytes": 43345
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.05232",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.05232",
+      "title": "[2609.05232] Substrate-Aware AI Agents: Execution Context as a First-Class Input",
+      "bytes": 42278
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.09153",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.09153",
+      "title": "[2609.09153] Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "bytes": 42627
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10750",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.10750",
+      "title": "[2609.10750] When Synthetic Data Hurts: On Catastrophic Forgetting in Skill Retrieval for LLM Agents",
+      "bytes": 41914
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11042",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.11042",
+      "title": "[2609.11042] T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
+      "bytes": 43268
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11682",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.11682",
+      "title": "[2609.11682] COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization",
+      "bytes": 41670
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.14858",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.14858",
+      "title": "[2609.14858] Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "bytes": 44144
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15820",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.15820",
+      "title": "[2609.15820] AlgoEvo: Self-Evolving Agentic Search for Automated Algorithm Discovery",
+      "bytes": 41605
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15859",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.15859",
+      "title": "[2609.15859] LongAgent: History-Guided Agentic Search for Longitudinal Outcome Prediction",
+      "bytes": 41391
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15938",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.15938",
+      "title": "[2609.15938] HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
+      "bytes": 45464
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15973",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.15973",
+      "title": "[2609.15973] Discovery Foundation Models: Toward Open-Ended Discovery Intelligence",
+      "bytes": 43538
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15982",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.15982",
+      "title": "[2609.15982] The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
+      "bytes": 43500
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15983",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.15983",
+      "title": "[2609.15983] Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science",
+      "bytes": 43592
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.16305",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.16305",
+      "title": "[2609.16305] BLINDSPOT: A Benchmark for Safety and Refusal Calibration in Long-Horizon Tool-Using Agents",
+      "bytes": 44001
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.16936",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.16936",
+      "title": "[2609.16936] RepoAtlas: Guiding Coding Agents via Evolving Multimodal Repository Views",
+      "bytes": 42503
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17380",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.17380",
+      "title": "[2609.17380] OPEN-1B: A Fully Auditable Training Run",
+      "bytes": 44022
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17632",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.17632",
+      "title": "[2609.17632] EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17708",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.17708",
+      "title": "[2609.17708] Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents",
+      "bytes": 43857
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17846",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.17846",
+      "title": "[2609.17846] PrimeScientist: Strategic Allocation of Research Effort in Autonomous Research",
+      "bytes": 43818
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18779",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.18779",
+      "title": "[2609.18779] CERA-MoA: Co-Evolving Routing Mechanisms with Continually Learning LLM Agents",
+      "bytes": 41488
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18849",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.18849",
+      "title": "[2609.18849] Ask the Tool, Don&#39;t Guess: Agent Tool Calls Hold Their Progress, and the Serving System Should Read It",
+      "bytes": 42825
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18864",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.18864",
+      "title": "[2609.18864] ASLEval: Measuring Privacy Exposure Displacement in LLM Agent Sessions",
+      "bytes": 42070
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.19128",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.19128",
+      "title": "[2609.19128] Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+      "bytes": 41499
+    },
+    {
+      "url": "https://arxiv.org/html/2608.27454v1",
+      "status": 200,
+      "final": "https://arxiv.org/html/2608.27454v1",
+      "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+      "bytes": 700000
+    },
+    {
+      "url": "https://arxiv.org/list/cs.AI/new",
+      "status": 200,
+      "final": "https://arxiv.org/list/cs.AI/new",
+      "title": "Artificial Intelligence",
+      "bytes": 700000
+    },
+    {
+      "url": "https://arxiv.org/list/cs.CL/new",
+      "status": 200,
+      "final": "https://arxiv.org/list/cs.CL/new",
+      "title": "Computation and Language",
+      "bytes": 544063
+    },
+    {
+      "url": "https://arxiv.org/list/cs.MA/recent",
+      "status": 200,
+      "final": "https://arxiv.org/list/cs.MA/recent",
+      "title": "Multiagent Systems  "
+    },
+    {
+      "url": "https://arxiv.org/pdf/2609.04170",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2609.04170",
+      "title": "",
+      "bytes": 536777
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "status": 200,
+      "final": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "status": 200,
+      "final": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "title": "Gemini 3.8 Live &amp; Gemini 3.8 Live Extended Thinking"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+      "status": 200,
+      "final": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+      "title": "Introducing Agentic Video in Gemini"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "status": 200,
+      "final": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "title": "WeatherNext 3: Our most advanced global weather AI model",
+      "bytes": 390534
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "status": 200,
+      "final": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "title": "Google\u2019s Fairwind Program: Cyber defense tools for trusted partners"
+    },
+    {
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "status": 200,
+      "final": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "title": "AlphaGenome Atlas: Molecular predictions for 9 Billion human DNA variants \u2014 Google DeepMind",
+      "bytes": 163683
+    },
+    {
+      "url": "https://deepmind.google/research/publications/",
+      "status": 200,
+      "final": "https://deepmind.google/research/publications/",
+      "title": "Publications \u2014 Google DeepMind",
+      "bytes": 144524
+    },
+    {
+      "url": "https://deepmind.google/research/publications/265605/",
+      "status": 200,
+      "final": "https://deepmind.google/research/publications/265605/",
+      "title": "Designing Proactive Thought Partners for Writing \u2014 Google DeepMind",
+      "bytes": 134634
+    },
+    {
+      "url": "https://doi.org/10.1016/j.cell.2026.08.015",
+      "status": 200,
+      "final": "https://linkinghub.elsevier.com/retrieve/pii/S0092867426009426",
+      "title": "Redirecting",
+      "bytes": 2969
+    },
+    {
+      "url": "https://github.com/Flesymeb/HarnessOfHarness",
+      "status": 200,
+      "final": "https://github.com/Flesymeb/HarnessOfHarness",
+      "title": "GitHub - Flesymeb/HarnessOfHarness: Harness of Harness: Multi-Day Autonomous Software Development with Continual Improvement \u00b7 GitHub",
+      "bytes": 290603
+    },
+    {
+      "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
+      "status": 200,
+      "final": "https://github.com/VoltAgent/awesome-ai-agent-papers",
+      "title": "GitHub - VoltAgent/awesome-ai-agent-papers: A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems. \u00b7 GitHub",
+      "bytes": 700000
+    },
+    {
+      "url": "https://github.com/dair-ai/AI-Papers-of-the-Week/blob/main/years/2026.md",
+      "status": 200,
+      "final": "https://github.com/dair-ai/AI-Papers-of-the-Week/blob/main/years/2026.md",
+      "title": "AI-Papers-of-the-Week/years/2026.md at main \u00b7 dair-ai/AI-Papers-of-the-Week \u00b7 GitHub",
+      "bytes": 700000
+    },
+    {
+      "url": "https://github.com/google-deepmind/amplio",
+      "status": 200,
+      "final": "https://github.com/google-deepmind/amplio",
+      "title": "GitHub - google-deepmind/amplio: Amplio: A Lightweight Agent Harness for Robust and Long-Horizon Runs \u00b7 GitHub",
+      "bytes": 300941
+    },
+    {
+      "url": "https://github.com/jmiao24/Paper2Agent",
+      "status": 200,
+      "final": "https://github.com/jmiao24/Paper2Agent",
+      "title": "GitHub - jmiao24/Paper2Agent: Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents. \u00b7 GitHub",
+      "bytes": 350180
+    },
+    {
+      "url": "https://papers.cool/arxiv/cs.AI",
+      "status": 200,
+      "final": "https://papers.cool/arxiv/cs.AI",
+      "title": "Artificial Intelligence | Cool Papers - Immersive Paper Discovery",
+      "bytes": 146753
+    },
+    {
+      "url": "https://research.google/blog/",
+      "status": 200,
+      "final": "https://research.google/blog/",
+      "title": "Latest News from Google Research Blog - Google Research",
+      "bytes": 178923
+    },
+    {
+      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+      "status": 200,
+      "final": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+      "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
+      "bytes": 181676
+    },
+    {
+      "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+      "status": 200,
+      "final": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+      "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+      "bytes": 182717
+    },
+    {
+      "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+      "status": 200,
+      "final": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+      "title": "Mapping global methane emissions from space with deep learning",
+      "bytes": 195354
+    },
+    {
+      "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+      "status": 200,
+      "final": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+      "title": "ToolGrad: Efficient tool-use dataset generation with textual &quot;gradients&quot;",
+      "bytes": 181987
+    },
+    {
+      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+      "status": 200,
+      "final": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+      "title": "Transfer learning for genomic prediction in underrepresented populations",
+      "bytes": 187186
+    },
+    {
+      "url": "https://research.google/conferences-and-events/google-at-eccv-2026/",
+      "status": 200,
+      "final": "https://research.google/conferences-and-events/google-at-eccv-2026/",
+      "title": "Google at ECCV 2026",
+      "bytes": 220199
+    },
+    {
+      "url": "https://research.google/pubs/",
+      "status": 200,
+      "final": "https://research.google/pubs/",
+      "title": "Publications \u2013 Google Research",
+      "bytes": 321338
+    },
+    {
+      "url": "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/alphagenome-atlas.pdf",
+      "status": 200,
+      "final": "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/alphagenome-atlas.pdf",
+      "title": "",
+      "bytes": 700000
+    },
+    {
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "status": 200,
+      "final": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "title": "Countering misuse of AI: September 2026 / Anthropic \\ Anthropic"
+    },
+    {
+      "url": "https://www.dream-rsi.com/",
+      "status": 200,
+      "final": "https://www.dream-rsi.com/",
+      "title": "Dream-RSI &middot; Recursive Self-Improvement through Evolving Worlds",
+      "bytes": 81902
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-026-11044-y",
+      "status": 200,
+      "final": "https://www.nature.com/articles/s41586-026-11044-y?error=cookies_not_supported&code=efb7f3e3-6a56-4b15-9293-2e4dfea13677",
+      "title": "Reimagining research papers as interactive and reliable AI agents | Nature",
+      "bytes": 432068
+    }
+  ]
+}

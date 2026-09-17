@@ -1,0 +1,576 @@
+{
+  "reads": [
+    [
+      "2026-08-27",
+      "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+      "Google Research + Virginia Tech",
+      "Skills / memory",
+      "Preprint (just outside window)",
+      "https://arxiv.org/abs/2608.27454",
+      "https://arxiv.org/html/2608.27454v1",
+      "Asked-for paper; arXiv 27 Aug, press 29 Aug–1 Sep"
+    ],
+    [
+      "2026-08-30",
+      "Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents",
+      "open library (163 science skills)",
+      "Skills / science agents",
+      "Preprint (v2 2 Sep)",
+      "https://arxiv.org/abs/2609.00065",
+      null,
+      "v2 on 2 Sep 2026"
+    ],
+    [
+      "2026-09-01",
+      "Designing Proactive Thought Partners for Writing",
+      "Google DeepMind internship + Cornell",
+      "Agents / HCI / writing",
+      "Preprint + DeepMind pubs",
+      "https://arxiv.org/abs/2609.01588",
+      "https://deepmind.google/research/publications/265605/",
+      "Only Sept paper on DeepMind featured pubs list"
+    ],
+    [
+      "2026-09-01",
+      "Mapping global methane emissions from space with deep learning",
+      "Google Research",
+      "Earth AI",
+      "Research blog",
+      "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+      null,
+      null
+    ],
+    [
+      "2026-09-01",
+      "Skill Following: Evaluating Actual Skill Use in Retrieval-Enabled LLM Agents",
+      "Cho & Park",
+      "Skills / eval",
+      "Preprint (EMNLP Findings)",
+      "https://arxiv.org/abs/2609.00549",
+      null,
+      "RAE metric; retrieval can hurt same-task performance"
+    ],
+    [
+      "2026-09-01",
+      "Defense-as-Skill: Evolving Runtime Guard Skill for Skill-Augmented Agents",
+      "Yang et al.",
+      "Agents / safety / skills",
+      "Preprint",
+      "https://arxiv.org/abs/2609.01487",
+      null,
+      "SkillSonar guard-as-skill"
+    ],
+    [
+      "2026-09-01",
+      "Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement",
+      "Yan / Shanghai AI Lab et al.",
+      "Coding agents / harness",
+      "Preprint + code",
+      "https://arxiv.org/abs/2609.01481",
+      "https://github.com/Flesymeb/HarnessOfHarness",
+      "+52% avg over base harness"
+    ],
+    [
+      "2026-09-02",
+      "Language Models Can Control Their Own Attention (Declarative Attention)",
+      "KAIST + Google DeepMind",
+      "LLMs / long context",
+      "Preprint",
+      "https://arxiv.org/abs/2609.02737",
+      null,
+      "-52% attended tokens on Gemma-4-31B"
+    ],
+    [
+      "2026-09-02",
+      "MASkills: Continual Skills Optimization for Multi-Agent LLM Systems",
+      "Yao et al.",
+      "Multi-agent / skills",
+      "Preprint (EMNLP Findings)",
+      "https://arxiv.org/abs/2609.02094",
+      null,
+      null
+    ],
+    [
+      "2026-09-02",
+      "Act More, Decide Less: Skill-Guided Adaptive Action Chunking (SPACE)",
+      "—",
+      "Long-horizon agents",
+      "Preprint (EMNLP camera-ready)",
+      "https://arxiv.org/abs/2609.02042",
+      null,
+      "Fewer LLM decision rounds"
+    ],
+    [
+      "2026-09-03",
+      "WeatherNext 3: Increasing resolution and performance of global weather models with raw observations",
+      "Google DeepMind + Google Research",
+      "Science AI / weather",
+      "Preprint + product",
+      "https://arxiv.org/abs/2609.03582",
+      "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      null
+    ],
+    [
+      "2026-09-03",
+      "Sexual dimorphism in the complete connectome of the Drosophila male central nervous system",
+      "HHMI Janelia + Google Research + collab",
+      "Science AI / connectomics",
+      "Journal (Cell)",
+      "https://doi.org/10.1016/j.cell.2026.08.015",
+      "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+      "166k+ neurons"
+    ],
+    [
+      "2026-09-03",
+      "Transfer learning for genomic prediction in underrepresented populations",
+      "Google Research",
+      "Genomics / ML",
+      "Research blog",
+      "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+      null,
+      null
+    ],
+    [
+      "2026-09-03",
+      "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+      "Google DeepMind",
+      "Multi-agent / safety",
+      "Preprint",
+      "https://arxiv.org/abs/2609.04170",
+      "https://arxiv.org/pdf/2609.04170",
+      "100 Gemini 3.1 Pro / Antigravity agents"
+    ],
+    [
+      "2026-09-03",
+      "SimSkill: A Self-Evolving LLM Agent for Skill and Knowledge Accumulation in Traffic Simulation",
+      "Liu et al.",
+      "Skills / domain agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.03753",
+      null,
+      null
+    ],
+    [
+      "2026-09-04",
+      "Substrate-Aware AI Agents: Execution Context as a First-Class Input",
+      "Manu Agrawal",
+      "Agents / systems",
+      "Preprint",
+      "https://arxiv.org/abs/2609.05232",
+      null,
+      "Claude / GPT / Gemini with RAM-time contracts"
+    ],
+    [
+      "2026-09-08",
+      "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "Google DeepMind + collaborators",
+      "Science AI / genomics",
+      "Official PDF + blogs",
+      "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/alphagenome-atlas.pdf",
+      "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "9B SNV predictions"
+    ],
+    [
+      "2026-09-08",
+      "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "Google + Georgia Tech + Peking (Sercan Ö. Arık et al.)",
+      "Agents / planning",
+      "Preprint",
+      "https://arxiv.org/abs/2609.09153",
+      null,
+      "DAIR #1 paper week of 7–13 Sep"
+    ],
+    [
+      "2026-09-08",
+      "Google at ECCV 2026 (41 accepted papers presented 8–12 Sep)",
+      "Google Research + Google DeepMind",
+      "Vision / multimodal",
+      "Conference batch",
+      "https://research.google/conferences-and-events/google-at-eccv-2026/",
+      null,
+      "Accepted earlier; presented this month"
+    ],
+    [
+      "2026-09-09",
+      "When Synthetic Data Hurts: On Catastrophic Forgetting in Skill Retrieval for LLM Agents",
+      "—",
+      "Skills / retrieval",
+      "Preprint (EMNLP Industry)",
+      "https://arxiv.org/abs/2609.10750",
+      null,
+      null
+    ],
+    [
+      "2026-09-10",
+      "ToolGrad: Efficient tool-use dataset generation with textual gradients",
+      "Google Research / Google XR",
+      "Agents / tool use / data",
+      "Research blog (ACL 2026 paper)",
+      "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+      null,
+      "Paper accepted ACL 2026; Sept write-up"
+    ],
+    [
+      "2026-09-10",
+      "COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization",
+      "—",
+      "Skills",
+      "Preprint",
+      "https://arxiv.org/abs/2609.11682",
+      null,
+      "55–58% cheaper than SkillOpt"
+    ],
+    [
+      "2026-09-10",
+      "T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
+      "—",
+      "Coding / terminal agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.11042",
+      null,
+      "Terminal-Bench long-horizon RL"
+    ],
+    [
+      "2026-09-14",
+      "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "Google + Google DeepMind + UMD + UVA",
+      "Agents / RSI",
+      "Preprint + site + code",
+      "https://arxiv.org/abs/2609.14858",
+      "https://www.dream-rsi.com/",
+      "Also https://github.com/zhengkid/Dream-RSI"
+    ],
+    [
+      "2026-09-14",
+      "Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and TCS",
+      "Google Research (Lin, Woodruff, Deng, Mao, Zuo, Mirrokni)",
+      "Multi-agent / research",
+      "Preprint",
+      "https://arxiv.org/abs/2609.15983",
+      null,
+      "Integrated into Antigravity Teamwork Long Proof"
+    ],
+    [
+      "2026-09-14",
+      "AlgoEvo: Self-Evolving Agentic Search for Automated Algorithm Discovery",
+      "Qiu et al.",
+      "Agents / algorithm discovery",
+      "Preprint",
+      "https://arxiv.org/abs/2609.15820",
+      null,
+      null
+    ],
+    [
+      "2026-09-14",
+      "HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
+      "Liu et al.",
+      "Multi-agent / science",
+      "Preprint",
+      "https://arxiv.org/abs/2609.15938",
+      null,
+      null
+    ],
+    [
+      "2026-09-14",
+      "Discovery Foundation Models: Toward Open-Ended Discovery Intelligence",
+      "Yang, Yin, Wu",
+      "Agents / discovery",
+      "Preprint",
+      "https://arxiv.org/abs/2609.15973",
+      null,
+      null
+    ],
+    [
+      "2026-09-14",
+      "The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
+      "Chen et al.",
+      "Skills / routing",
+      "Preprint",
+      "https://arxiv.org/abs/2609.15982",
+      null,
+      null
+    ],
+    [
+      "2026-09-14",
+      "BLINDSPOT: A Benchmark for Safety and Refusal Calibration in Long-Horizon Tool-Using Agents",
+      "Asif et al.",
+      "Agent safety / eval",
+      "Preprint",
+      "https://arxiv.org/abs/2609.16305",
+      null,
+      "22 attack families, 2500+ trajectories"
+    ],
+    [
+      "2026-09-14",
+      "LongAgent: History-Guided Agentic Search for Longitudinal Outcome Prediction",
+      "Wang et al.",
+      "Medical agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.15859",
+      null,
+      null
+    ],
+    [
+      "2026-09-15",
+      "Bypassing inference bottlenecks: Retrieve-for-Train / Efficient Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion",
+      "Google Research",
+      "LLM search / retrieval",
+      "Research blog (ICML 2026 paper)",
+      "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+      null,
+      "Underlying paper first on arXiv Mar 2026"
+    ],
+    [
+      "2026-09-15",
+      "PrimeScientist: Strategic Allocation of Research Effort in Autonomous Research",
+      "Yu / Wang et al.",
+      "Research agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.17846",
+      null,
+      null
+    ],
+    [
+      "2026-09-15",
+      "RepoAtlas: Guiding Coding Agents via Evolving Multimodal Repository Views",
+      "Zhang et al.",
+      "Coding agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.16936",
+      null,
+      null
+    ],
+    [
+      "2026-09-15",
+      "OPEN-1B: A Fully Auditable Training Run",
+      "Donaghy et al.",
+      "LLMs / training transparency",
+      "Preprint",
+      "https://arxiv.org/abs/2609.17380",
+      null,
+      "Not agent-specific"
+    ],
+    [
+      "2026-09-15",
+      "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+      "Kim, Choi, Kang, Hwang",
+      "Trading agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.17632",
+      null,
+      "Posted 15 Sep 10:35 UTC; search title on arXiv"
+    ],
+    [
+      "2026-09-15",
+      "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "Google DeepMind",
+      "Models / voice agents",
+      "Product + model card",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      null,
+      "Speech-to-speech / real-time agents"
+    ],
+    [
+      "2026-09-16",
+      "Reimagining research papers as interactive and reliable AI agents (Paper2Agent)",
+      "Stanford Medicine (Miao, Zou)",
+      "Agents / science tooling",
+      "Nature journal",
+      "https://www.nature.com/articles/s41586-026-11044-y",
+      "https://github.com/jmiao24/Paper2Agent",
+      "Not a Google paper; demo used AlphaGenome"
+    ],
+    [
+      "2026-09-16",
+      "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection",
+      "Meneses dos Santos & Oliveira",
+      "Agents / memory",
+      "Preprint",
+      "https://arxiv.org/abs/2609.19128",
+      null,
+      null
+    ],
+    [
+      "2026-09-16",
+      "CERA-MoA: Co-Evolving Routing Mechanisms with Continually Learning LLM Agents",
+      "Jiang, He, Fang",
+      "Multi-agent / routing",
+      "Preprint",
+      "https://arxiv.org/abs/2609.18779",
+      null,
+      null
+    ],
+    [
+      "2026-09-16",
+      "Ask the Tool, Don't Guess: Agent Tool Calls Hold Their Progress",
+      "Liu et al.",
+      "Agent serving / systems",
+      "Preprint",
+      "https://arxiv.org/abs/2609.18849",
+      null,
+      null
+    ],
+    [
+      "2026-09-16",
+      "ASLEval: Measuring Privacy Exposure Displacement in LLM Agent Sessions",
+      "Wu et al.",
+      "Agent privacy / eval",
+      "Preprint",
+      "https://arxiv.org/abs/2609.18864",
+      null,
+      null
+    ],
+    [
+      "2026-09-16",
+      "Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents",
+      "—",
+      "LLMs / agents / calibration",
+      "Preprint",
+      "https://arxiv.org/abs/2609.17708",
+      null,
+      null
+    ],
+    [
+      "2026-09-16",
+      "Amplio: A Lightweight Agent Harness for Robust and Long-Horizon Runs",
+      "Google DeepMind",
+      "Harness / infra",
+      "Code release",
+      "https://github.com/google-deepmind/amplio",
+      null,
+      "Repo updated mid-Sep; not a paper"
+    ],
+    [
+      "2026-09-02",
+      "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "Google DeepMind",
+      "Models",
+      "Product",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      null,
+      null
+    ],
+    [
+      "2026-09-01",
+      "Introducing agentic video understanding with Gemini",
+      "Google DeepMind",
+      "Agents / video",
+      "Product research",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+      null,
+      null
+    ],
+    [
+      "2026-09-02",
+      "Proactive cyber defense for governments and enterprises",
+      "Google DeepMind",
+      "Security / agents",
+      "Product research",
+      "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      null,
+      null
+    ],
+    [
+      "2026-09-10",
+      "Detecting and countering misuse of AI: September 2026",
+      "Anthropic",
+      "AI misuse / safety",
+      "Threat intelligence report",
+      "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      null,
+      null
+    ]
+  ],
+  "indexes": [
+    [
+      "daily",
+      "arXiv cs.AI new listings",
+      "—",
+      "Index",
+      "Firehose",
+      "https://arxiv.org/list/cs.AI/new",
+      null,
+      "~200 papers on a busy day"
+    ],
+    [
+      "daily",
+      "arXiv cs.CL new listings",
+      "—",
+      "Index",
+      "Firehose",
+      "https://arxiv.org/list/cs.CL/new",
+      null,
+      null
+    ],
+    [
+      "week",
+      "arXiv cs.MA recent submissions",
+      "—",
+      "Index",
+      "Firehose",
+      "https://arxiv.org/list/cs.MA/recent",
+      null,
+      "73 entries in the week of 17 Sep"
+    ],
+    [
+      "daily",
+      "papers.cool cs.AI",
+      "—",
+      "Index",
+      "Curated daily",
+      "https://papers.cool/arxiv/cs.AI",
+      null,
+      null
+    ],
+    [
+      "weekly",
+      "DAIR AI Papers of the Week 2026",
+      "DAIR.AI",
+      "Index",
+      "Weekly picks",
+      "https://github.com/dair-ai/AI-Papers-of-the-Week/blob/main/years/2026.md",
+      null,
+      null
+    ],
+    [
+      "YTD",
+      "Awesome AI Agent Papers 2026",
+      "VoltAgent",
+      "Index",
+      "Curated year list",
+      "https://github.com/VoltAgent/awesome-ai-agent-papers",
+      null,
+      "364+ papers, not month-filtered"
+    ],
+    [
+      "ongoing",
+      "Google DeepMind publications",
+      "Google DeepMind",
+      "Index",
+      "Official",
+      "https://deepmind.google/research/publications/",
+      null,
+      null
+    ],
+    [
+      "ongoing",
+      "Google Research publications",
+      "Google Research",
+      "Index",
+      "Official",
+      "https://research.google/pubs/",
+      null,
+      null
+    ],
+    [
+      "ongoing",
+      "Google Research blog",
+      "Google Research",
+      "Index",
+      "Official",
+      "https://research.google/blog/",
+      null,
+      null
+    ]
+  ]
+}
