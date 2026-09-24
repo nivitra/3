@@ -1,460 +1,1180 @@
 {
-  "checked_on": "2026-09-17",
+  "checked_on": "2026-09-24",
   "results": [
+    {
+      "url": "https://ai.meta.com/research/publications/hyperagents/",
+      "status": 200,
+      "final": "https://ai.meta.com/research/publications/hyperagents/",
+      "title": "HyperAgents | Research - AI at Meta",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://ai.meta.com/research/publications/superintelligent-retrieval-agent-the-next-frontier-of-agentic-retrieval/",
+      "status": 200,
+      "final": "https://ai.meta.com/research/publications/superintelligent-retrieval-agent-the-next-frontier-of-agentic-retrieval/",
+      "title": "Superintelligent Retrieval Agent: The Next Frontier of Agentic Retrieval | Research - AI at Meta",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://ai.meta.com/results/?amp%3Bsort_by=most_recent&content_types%5B0%5D=publication",
+      "title": "Meta AI Publications",
+      "verification_method": "web_content",
+      "verified_on": "2026-09-24",
+      "note": "Publisher content retrieved through web browsing; direct HTTP restrictions are retained where observed."
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "error": "HTTP Error 405: Not Allowed",
+      "title": "Update to Google\u2019s AI weather model improves forecast accuracy",
+      "verification_method": "web_content",
+      "verified_on": "2026-09-24",
+      "note": "Publisher content retrieved through web browsing; direct HTTP restrictions are retained where observed."
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.05588",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2601.05588",
+      "title": "[2601.05588] Autoregressive Ranking: Bridging the Gap Between Dual and Cross Encoders",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.20278",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2603.20278",
+      "title": "[2603.20278] OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24014",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2606.24014",
+      "title": "[2606.24014] Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.26637",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2607.26637",
+      "title": "[2607.26637] Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.27191",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2607.27191",
+      "title": "[2607.27191] Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.28272",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2607.28272",
+      "title": "[2607.28272] MemHarness: Memory Is Reconstructed, Not Replayed",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05013",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.05013",
+      "title": "[2608.05013] OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05987",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.05987",
+      "title": "[2608.05987] AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12610",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.12610",
+      "title": "[2608.12610] @skills: Attention is all you have",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.13940",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.13940",
+      "title": "[2608.13940] AI Research Preference Models",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.15242",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.15242",
+      "title": "[2608.15242] LongRCA Bench: Root-Cause Localization in Long-Horizon Agent Trajectories",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17528",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.17528",
+      "title": "[2608.17528] Agent Lightning v1.0: Towards Harnessed Agentic RL",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18300",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.18300",
+      "title": "[2608.18300] The Lifecycle of LLM-as-a-Judge for Large-Scale Recommendation Explanations",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19741",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.19741",
+      "title": "[2608.19741] One Success Isn&#39;t Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20614",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.20614",
+      "title": "[2608.20614] Evaluating Skills, Not Just Agents: Agentic Continuous Evaluation of Skills",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.21690",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.21690",
+      "title": "[2608.21690] Context as an Environment: Programmatic Context Management for Long-Horizon Agents",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.22510",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.22510",
+      "title": "[2608.22510] ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Frozen Workplace-Style Holdouts",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.22752",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.22752",
+      "title": "[2608.22752] The Compaction Cliff in Long-Running AI Agent Memory",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.23200",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.23200",
+      "title": "[2608.23200] LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.23552",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.23552",
+      "title": "[2608.23552] Prime Agent: A Self-Improving RLM Harness",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24735",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.24735",
+      "title": "[2608.24735] Meta$^n$: Recursive Self-Improvement through Emergent Depth",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24876",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.24876",
+      "title": "[2608.24876] Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.25593",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.25593",
+      "title": "[2608.25593] JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.25776",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.25776",
+      "title": "[2608.25776] EVOMAL: Self-Poisoning in Self-Evolving Coding Agents",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.25924",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.25924",
+      "title": "[2608.25924] Visual General Intelligence: A White Paper",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26263",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.26263",
+      "title": "[2608.26263] SKILL.state: Scalable Long-Horizon Agent Skills",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26701",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.26701",
+      "title": "[2608.26701] Accelerating Scientific Research with Gemini in the Real-World",
+      "verification_method": "http_get"
+    },
     {
       "url": "https://arxiv.org/abs/2608.27454",
       "status": 200,
       "final": "https://arxiv.org/abs/2608.27454",
       "title": "[2608.27454] WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
-      "bytes": 42904
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.28945",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.28945",
+      "title": "[2608.28945] Automated Researchers Can Mitigate Well-characterized Alignment Failures",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.28978",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.28978",
+      "title": "[2608.28978] Selective Forgetting: A Graph-Based Memory Framework for Long-Term LLM Agents",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.30730",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2608.30730",
+      "title": "[2608.30730] E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.00065",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.00065",
       "title": "[2609.00065] Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents",
-      "bytes": 42282
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.00546",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.00546",
+      "title": "[2609.00546] Runtime-Independent Persistent Agents: Preserving Identity, Memory, and Code Across Models, Harnesses, and Servers",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.00549",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.00549",
       "title": "[2609.00549] Skill Following: Evaluating Actual Skill Use in Retrieval-Enabled LLM Agents",
-      "bytes": 41062
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.01481",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.01481",
       "title": "[2609.01481] Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement",
-      "bytes": 43967
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.01487",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.01487",
       "title": "[2609.01487] Defense-as-Skill: Evolving Runtime Guard Skill for Skill-Augmented Agents",
-      "bytes": 43301
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.01588",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.01588",
       "title": "[2609.01588] Designing Proactive Thought Partners for Writing",
-      "bytes": 41280
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.02042",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.02042",
       "title": "[2609.02042] Act More, Decide Less: Skill-Guided Adaptive Action Chunking for Long-Horizon LLM Agents",
-      "bytes": 43103
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.02094",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.02094",
       "title": "[2609.02094] MASkills: Continual Skills Optimization for Multi-Agent LLM Systems",
-      "bytes": 41483
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02264",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.02264",
+      "title": "[2609.02264] Codebook Agent: Amortized Topology Design for LLM Multi-Agent Systems",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02702",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.02702",
+      "title": "[2609.02702] Trace as State: Reasoning Traces as Conditional States for Long-Context Transformers",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.02730",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.02730",
+      "title": "[2609.02730] CORAL: An LLM-Native Harness for Production Recommender Systems",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.02737",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.02737",
       "title": "[2609.02737] Language Models Can Control Their Own Attention",
-      "bytes": 42180
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.03582",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.03582",
       "title": "[2609.03582] WeatherNext 3: Increasing resolution and performance of global weather models with raw observations",
-      "bytes": 47324
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.03753",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.03753",
       "title": "[2609.03753] SimSkill: A Self-Evolving LLM Agent for Skill and Knowledge Accumulation in Traffic Simulation",
-      "bytes": 42914
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.03874",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.03874",
+      "title": "[2609.03874] STAIR (STructure Aware Information Retriever): A novel dataset and LLM based retriever for document structure augmentation",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.04170",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.04170",
       "title": "[2609.04170] A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
-      "bytes": 43345
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.05232",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.05232",
       "title": "[2609.05232] Substrate-Aware AI Agents: Execution Context as a First-Class Input",
-      "bytes": 42278
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.05364",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.05364",
+      "title": "[2609.05364] Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.06702",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.06702",
+      "title": "[2609.06702] PARSER: Read in Parallel, Reason in Depth for Long-Context LLM Agents",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.07925",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.07925",
+      "title": "[2609.07925] FrogNano: Training a 4B Coding Agent via Online Task Synthesis",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.09134",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.09134",
+      "title": "[2609.09134] Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.09153",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.09153",
       "title": "[2609.09153] Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "bytes": 42627
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10712",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.10712",
+      "title": "[2609.10712] An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.10750",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.10750",
       "title": "[2609.10750] When Synthetic Data Hurts: On Catastrophic Forgetting in Skill Retrieval for LLM Agents",
-      "bytes": 41914
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.11042",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.11042",
       "title": "[2609.11042] T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
-      "bytes": 43268
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.11682",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.11682",
       "title": "[2609.11682] COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization",
-      "bytes": 41670
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11873",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.11873",
+      "title": "[2609.11873] The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11999",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.11999",
+      "title": "[2609.11999] Is Bash All You Need? An Empirical Study of Tool Interfaces for Enterprise Digital Worker Agents",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.12191",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.12191",
+      "title": "[2609.12191] GAUGE: When Not to Trust LLM-as-a-Judge in User-Simulated Evaluation of Task-Oriented Agents",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.12303",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.12303",
+      "title": "[2609.12303] Breaking the Token Ceiling: Distilling Smaller, Stronger Byte Models",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.13356",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.13356",
+      "title": "[2609.13356] ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.14858",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.14858",
       "title": "[2609.14858] Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "bytes": 44144
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15066",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.15066",
+      "title": "[2609.15066] Salesforce Koa: An Enterprise Language Model for Agentic Tool Use",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15096",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.15096",
+      "title": "[2609.15096] OpenAI4S: Code as Action, Science as Sessions",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15383",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.15383",
+      "title": "[2609.15383] Divide, Consult, Conquer: Capability Laundering Through Aligned LLMs",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.15820",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.15820",
       "title": "[2609.15820] AlgoEvo: Self-Evolving Agentic Search for Automated Algorithm Discovery",
-      "bytes": 41605
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.15859",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.15859",
       "title": "[2609.15859] LongAgent: History-Guided Agentic Search for Longitudinal Outcome Prediction",
-      "bytes": 41391
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.15938",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.15938",
       "title": "[2609.15938] HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
-      "bytes": 45464
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.15973",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.15973",
       "title": "[2609.15973] Discovery Foundation Models: Toward Open-Ended Discovery Intelligence",
-      "bytes": 43538
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.15982",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.15982",
       "title": "[2609.15982] The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
-      "bytes": 43500
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.15983",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.15983",
       "title": "[2609.15983] Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science",
-      "bytes": 43592
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.16305",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.16305",
       "title": "[2609.16305] BLINDSPOT: A Benchmark for Safety and Refusal Calibration in Long-Horizon Tool-Using Agents",
-      "bytes": 44001
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.16487",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.16487",
+      "title": "[2609.16487] Skill-based Agentic Evaluation for Real-time Data Science Tasks",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.16936",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.16936",
       "title": "[2609.16936] RepoAtlas: Guiding Coding Agents via Evolving Multimodal Repository Views",
-      "bytes": 42503
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17306",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.17306",
+      "title": "[2609.17306] Mo&#39; Models, Mo&#39; Problems: How to best select model pools when designing Multi-Agent Systems",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.17380",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.17380",
       "title": "[2609.17380] OPEN-1B: A Fully Auditable Training Run",
-      "bytes": 44022
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17496",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.17496",
+      "title": "[2609.17496] Verifiable Social Reasoning for LLM Assistants",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.17632",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.17632",
-      "title": "[2609.17632] EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents"
+      "title": "[2609.17632] EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.17708",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.17708",
       "title": "[2609.17708] Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents",
-      "bytes": 43857
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.17846",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.17846",
       "title": "[2609.17846] PrimeScientist: Strategic Allocation of Research Effort in Autonomous Research",
-      "bytes": 43818
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18283",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.18283",
+      "title": "[2609.18283] Where Should Agents Live? Energy-Memory Characterization of Agentic AI for the Edge-Cloud Continuum",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18431",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.18431",
+      "title": "[2609.18431] HPOQuest: A Rare-Disease Diagnostic Agent Using Active Phenotype Acquisition",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18591",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.18591",
+      "title": "[2609.18591] Recursive Reasoning or Statistical Extrapolation? In-Context Learning in Multi-Agent Interdependent Decision-Making",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.18779",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.18779",
       "title": "[2609.18779] CERA-MoA: Co-Evolving Routing Mechanisms with Continually Learning LLM Agents",
-      "bytes": 41488
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18802",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.18802",
+      "title": "[2609.18802] Routing Multiple Agents Below the Sum of Distances",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18805",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.18805",
+      "title": "[2609.18805] ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.18849",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.18849",
       "title": "[2609.18849] Ask the Tool, Don&#39;t Guess: Agent Tool Calls Hold Their Progress, and the Serving System Should Read It",
-      "bytes": 42825
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18853",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.18853",
+      "title": "[2609.18853] Towards Interaction Regulation from Human Feedback via Free Energy Minimization",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.18864",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.18864",
       "title": "[2609.18864] ASLEval: Measuring Privacy Exposure Displacement in LLM Agent Sessions",
-      "bytes": 42070
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18929",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.18929",
+      "title": "[2609.18929] Social Laws for Multi-agent Coordination in Stochastic Environments",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18996",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.18996",
+      "title": "[2609.18996] Compiled Agency: Frontier General-Purpose Coding Agents Build Winning Game Players from Bare Interaction - from Flappy Bird to StarCraft II and Civilization",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/abs/2609.19128",
       "status": 200,
       "final": "https://arxiv.org/abs/2609.19128",
       "title": "[2609.19128] Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
-      "bytes": 41499
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.20519",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.20519",
+      "title": "[2609.20519] SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.21032",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.21032",
+      "title": "[2609.21032] Scaling Discovery through Test-Time Communication",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.22947",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.22947",
+      "title": "[2609.22947] RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.26637",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.26637",
+      "title": "[2609.26637] Capable yet Parsimonious: Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.26780",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.26780",
+      "title": "[2609.26780] SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28466",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2609.28466",
+      "title": "[2609.28466] The Past Frames the Future: Memory for Autoregressive Video Generation",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/html/2608.27454v1",
       "status": 200,
       "final": "https://arxiv.org/html/2608.27454v1",
       "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
-      "bytes": 700000
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/html/2609.01588v1",
+      "status": 200,
+      "final": "https://arxiv.org/html/2609.01588v1",
+      "title": "Designing Proactive Thought Partners for Writing",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/html/2609.11042",
+      "status": 200,
+      "final": "https://arxiv.org/html/2609.11042",
+      "title": "T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/html/2609.14858",
+      "status": 200,
+      "final": "https://arxiv.org/html/2609.14858",
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/html/2609.17708v1",
+      "status": 200,
+      "final": "https://arxiv.org/html/2609.17708v1",
+      "title": "Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/list/cs.AI/new",
       "status": 200,
       "final": "https://arxiv.org/list/cs.AI/new",
-      "title": "Artificial Intelligence",
-      "bytes": 700000
+      "title": "Artificial Intelligence  ",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/list/cs.CL/new",
       "status": 200,
       "final": "https://arxiv.org/list/cs.CL/new",
-      "title": "Computation and Language",
-      "bytes": 544063
+      "title": "Computation and Language  ",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/list/cs.MA/recent",
       "status": 200,
       "final": "https://arxiv.org/list/cs.MA/recent",
-      "title": "Multiagent Systems  "
+      "title": "Multiagent Systems  ",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2609.02737",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2609.02737",
+      "title": "",
+      "verification_method": "http_get"
     },
     {
       "url": "https://arxiv.org/pdf/2609.04170",
       "status": 200,
       "final": "https://arxiv.org/pdf/2609.04170",
       "title": "",
-      "bytes": 536777
+      "verification_method": "http_get"
     },
     {
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
       "status": 200,
       "final": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "verification_method": "http_get"
     },
     {
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
       "status": 200,
       "final": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "title": "Gemini 3.8 Live &amp; Gemini 3.8 Live Extended Thinking"
+      "title": "Gemini 3.8 Live &amp; Gemini 3.8 Live Extended Thinking",
+      "verification_method": "http_get"
     },
     {
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
       "status": 200,
       "final": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
-      "title": "Introducing Agentic Video in Gemini"
+      "title": "Introducing Agentic Video in Gemini",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "status": 200,
+      "final": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "title": "Introducing AlphaGenome Atlas",
+      "verification_method": "http_get"
     },
     {
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
       "status": 200,
       "final": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
       "title": "WeatherNext 3: Our most advanced global weather AI model",
-      "bytes": 390534
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
+      "status": 200,
+      "final": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
+      "title": "See a map of the male fruit fly brain",
+      "verification_method": "http_get"
     },
     {
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "status": 200,
       "final": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "title": "Google\u2019s Fairwind Program: Cyber defense tools for trusted partners"
+      "title": "Google\u2019s Fairwind Program: Cyber defense tools for trusted partners",
+      "verification_method": "http_get"
     },
     {
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
       "status": 200,
       "final": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "title": "AlphaGenome Atlas: Molecular predictions for 9 Billion human DNA variants \u2014 Google DeepMind",
-      "bytes": 163683
+      "title": "",
+      "verification_method": "http_get"
     },
     {
       "url": "https://deepmind.google/research/publications/",
       "status": 200,
       "final": "https://deepmind.google/research/publications/",
       "title": "Publications \u2014 Google DeepMind",
-      "bytes": 144524
+      "verification_method": "http_get"
     },
     {
       "url": "https://deepmind.google/research/publications/265605/",
       "status": 200,
       "final": "https://deepmind.google/research/publications/265605/",
       "title": "Designing Proactive Thought Partners for Writing \u2014 Google DeepMind",
-      "bytes": 134634
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://deepmind.google/research/publications/270149/",
+      "status": 200,
+      "final": "https://deepmind.google/research/publications/270149/",
+      "title": "Visual General Intelligence: A White Paper \u2014 Google DeepMind",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://deploymentsafety.openai.com/gpt-6-astra",
+      "title": "GPT-6 Astra System Card - OpenAI Deployment Safety Hub",
+      "verification_method": "web_content",
+      "verified_on": "2026-09-24",
+      "note": "Publisher content retrieved through web browsing; direct HTTP restrictions are retained where observed."
+    },
+    {
+      "url": "https://developers.google.com/weathernext/guides/models",
+      "status": 200,
+      "final": "https://developers.google.com/weathernext/guides/models",
+      "title": "WeatherNext 3 &nbsp;|&nbsp; Google for Developers",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://developers.google.com/weathernext/guides/research",
+      "status": 200,
+      "final": "https://developers.google.com/weathernext/guides/research",
+      "title": "Research and benchmarks &nbsp;|&nbsp; WeatherNext &nbsp;|&nbsp; Google for Developers",
+      "verification_method": "http_get"
     },
     {
       "url": "https://doi.org/10.1016/j.cell.2026.08.015",
       "status": 200,
       "final": "https://linkinghub.elsevier.com/retrieve/pii/S0092867426009426",
       "title": "Redirecting",
-      "bytes": 2969
+      "verification_method": "http_get"
     },
     {
       "url": "https://github.com/Flesymeb/HarnessOfHarness",
       "status": 200,
       "final": "https://github.com/Flesymeb/HarnessOfHarness",
       "title": "GitHub - Flesymeb/HarnessOfHarness: Harness of Harness: Multi-Day Autonomous Software Development with Continual Improvement \u00b7 GitHub",
-      "bytes": 290603
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://github.com/TIGER-AI-Lab/OpenResearcher",
+      "status": 200,
+      "final": "https://github.com/TIGER-AI-Lab/OpenResearcher",
+      "title": "GitHub - TIGER-AI-Lab/OpenResearcher: OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis \u00b7 GitHub",
+      "verification_method": "http_get"
     },
     {
       "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
       "status": 200,
       "final": "https://github.com/VoltAgent/awesome-ai-agent-papers",
       "title": "GitHub - VoltAgent/awesome-ai-agent-papers: A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems. \u00b7 GitHub",
-      "bytes": 700000
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://github.com/ashutoshsinghpr7/wikiskill",
+      "status": 200,
+      "final": "https://github.com/ashutoshsinghpr7/wikiskill",
+      "title": "GitHub - ashutoshsinghpr7/wikiskill: WikiSkill (arXiv:2608.27454) for Hermes Agent \u2014 self-evolving agent skills via a persistent knowledge wiki. Faithful Algorithm 1 implementation with real agent runs, isolated skill gating, and a documented live run log. \u00b7 GitHub",
+      "verification_method": "http_get"
     },
     {
       "url": "https://github.com/dair-ai/AI-Papers-of-the-Week/blob/main/years/2026.md",
       "status": 200,
       "final": "https://github.com/dair-ai/AI-Papers-of-the-Week/blob/main/years/2026.md",
       "title": "AI-Papers-of-the-Week/years/2026.md at main \u00b7 dair-ai/AI-Papers-of-the-Week \u00b7 GitHub",
-      "bytes": 700000
+      "verification_method": "http_get"
     },
     {
       "url": "https://github.com/google-deepmind/amplio",
       "status": 200,
       "final": "https://github.com/google-deepmind/amplio",
       "title": "GitHub - google-deepmind/amplio: Amplio: A Lightweight Agent Harness for Robust and Long-Horizon Runs \u00b7 GitHub",
-      "bytes": 300941
+      "verification_method": "http_get"
     },
     {
       "url": "https://github.com/jmiao24/Paper2Agent",
       "status": 200,
       "final": "https://github.com/jmiao24/Paper2Agent",
       "title": "GitHub - jmiao24/Paper2Agent: Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents. \u00b7 GitHub",
-      "bytes": 350180
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://github.com/masamasa59/ai-agent-papers",
+      "status": 200,
+      "final": "https://github.com/masamasa59/ai-agent-papers",
+      "title": "GitHub - masamasa59/ai-agent-papers: A collection of AI Agents papers (Updated biweekly) \u00b7 GitHub",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://github.com/zhengkid/Dream-RSI",
+      "status": 200,
+      "final": "https://github.com/zhengkid/Dream-RSI",
+      "title": "GitHub - zhengkid/Dream-RSI: The offical repo for &quot;Dream-RSI: Recursive Self-Improvement through Evolving Worlds&quot; \u00b7 GitHub",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://huggingface.co/papers",
+      "status": 200,
+      "final": "https://huggingface.co/papers",
+      "title": "Daily Papers - Hugging Face",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://huggingface.co/papers/2608.04007",
+      "status": 200,
+      "final": "https://huggingface.co/papers/2608.04007",
+      "title": "Paper page - TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://institute.deepmind.com/",
+      "status": 200,
+      "final": "https://institute.deepmind.com/",
+      "title": "DeepMind Institute",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://med.stanford.edu/news/all-news/2026/09/ai-agents-talk.html",
+      "status": 200,
+      "final": "https://med.stanford.edu/news/all-news/2026/09/ai-agents-talk.html",
+      "title": "Manuscripts-turned AI agents can now \u2018talk\u2019 to each other, make new discoveries",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "error": "HTTP Error 403: Forbidden",
+      "title": "The Hugging Face incident and the road ahead",
+      "verification_method": "web_content",
+      "verified_on": "2026-09-24",
+      "note": "Publisher content retrieved through web browsing; direct HTTP restrictions are retained where observed."
+    },
+    {
+      "url": "https://openai.com/index/introducing-mentalhealthbench/",
+      "error": "HTTP Error 403: Forbidden",
+      "title": "Introducing MentalHealthBench",
+      "verification_method": "web_content",
+      "verified_on": "2026-09-24",
+      "note": "Publisher content retrieved through web browsing; direct HTTP restrictions are retained where observed."
+    },
+    {
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+      "verification_method": "web_content",
+      "verified_on": "2026-09-24",
+      "note": "Publisher content retrieved through web browsing; direct HTTP restrictions are retained where observed."
+    },
+    {
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai/",
+      "error": "HTTP Error 403: Forbidden",
+      "title": "Research acceleration: The view inside OpenAI",
+      "verification_method": "web_content",
+      "verified_on": "2026-09-24",
+      "note": "Publisher content retrieved through web browsing; direct HTTP restrictions are retained where observed."
     },
     {
       "url": "https://papers.cool/arxiv/cs.AI",
       "status": 200,
       "final": "https://papers.cool/arxiv/cs.AI",
       "title": "Artificial Intelligence | Cool Papers - Immersive Paper Discovery",
-      "bytes": 146753
+      "verification_method": "http_get"
     },
     {
       "url": "https://research.google/blog/",
       "status": 200,
       "final": "https://research.google/blog/",
       "title": "Latest News from Google Research Blog - Google Research",
-      "bytes": 178923
+      "verification_method": "http_get"
     },
     {
       "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
       "status": 200,
       "final": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
       "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
-      "bytes": 181676
+      "verification_method": "http_get"
     },
     {
       "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
       "status": 200,
       "final": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
       "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-      "bytes": 182717
+      "verification_method": "http_get"
     },
     {
       "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
       "status": 200,
       "final": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
       "title": "Mapping global methane emissions from space with deep learning",
-      "bytes": 195354
+      "verification_method": "http_get"
     },
     {
       "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
       "status": 200,
       "final": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
       "title": "ToolGrad: Efficient tool-use dataset generation with textual &quot;gradients&quot;",
-      "bytes": 181987
+      "verification_method": "http_get"
     },
     {
       "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
       "status": 200,
       "final": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
       "title": "Transfer learning for genomic prediction in underrepresented populations",
-      "bytes": 187186
+      "verification_method": "http_get"
     },
     {
       "url": "https://research.google/conferences-and-events/google-at-eccv-2026/",
       "status": 200,
       "final": "https://research.google/conferences-and-events/google-at-eccv-2026/",
       "title": "Google at ECCV 2026",
-      "bytes": 220199
+      "verification_method": "http_get"
     },
     {
       "url": "https://research.google/pubs/",
       "status": 200,
       "final": "https://research.google/pubs/",
       "title": "Publications \u2013 Google Research",
-      "bytes": 321338
+      "verification_method": "http_get"
     },
     {
       "url": "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/alphagenome-atlas.pdf",
       "status": 200,
       "final": "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/alphagenome-atlas.pdf",
       "title": "",
-      "bytes": 700000
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "status": 200,
+      "final": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "title": "Measurements for understanding the pace of AI development inside frontier labs \\ Anthropic",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://www.anthropic.com/research",
+      "status": 200,
+      "final": "https://www.anthropic.com/research",
+      "title": "Research \\ Anthropic",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      "status": 200,
+      "final": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      "title": "How Claude is uplifting biomolecular modeling \\ Anthropic",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "status": 200,
+      "final": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "title": "Discovering cryptographic weaknesses with Claude \\ Anthropic",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://www.anthropic.com/research/enabling-independent-research",
+      "status": 200,
+      "final": "https://www.anthropic.com/research/enabling-independent-research",
+      "title": "Enabling independent research on how people use Claude \\ Anthropic",
+      "verification_method": "http_get"
     },
     {
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "status": 200,
       "final": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "title": "Countering misuse of AI: September 2026 / Anthropic \\ Anthropic"
+      "title": "Countering misuse of AI: September 2026 / Anthropic \\ Anthropic",
+      "verification_method": "http_get"
     },
     {
       "url": "https://www.dream-rsi.com/",
       "status": 200,
       "final": "https://www.dream-rsi.com/",
       "title": "Dream-RSI &middot; Recursive Self-Improvement through Evolving Worlds",
-      "bytes": 81902
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/",
+      "error": "HTTP Error 403: Forbidden",
+      "title": "Microsoft Research Blog - Microsoft Research",
+      "verification_method": "web_content",
+      "verified_on": "2026-09-24",
+      "note": "Publisher content retrieved through web browsing; direct HTTP restrictions are retained where observed."
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+      "error": "The read operation timed out",
+      "title": "MagenticLite, MagenticBrain, and Fara1.5: An agentic experience optimized for small models",
+      "verification_method": "web_content",
+      "verified_on": "2026-09-24",
+      "note": "Publisher content retrieved through web browsing; direct HTTP restrictions are retained where observed."
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-02835-4",
+      "status": 200,
+      "final": "https://www.nature.com/articles/d41586-026-02835-4?error=cookies_not_supported&code=d0fa3d74-62fc-4ff5-a9e2-5d18890e25ff",
+      "title": "DeepMind\u2019s new genome \u2018atlas\u2019 charts effects of all nine billion human gene mutations | Nature",
+      "verification_method": "http_get"
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-02899-2",
+      "status": 200,
+      "final": "https://www.nature.com/articles/d41586-026-02899-2?error=cookies_not_supported&code=810f61f5-04da-4947-b4a6-8bfdd54d24e5",
+      "title": "AI tool turns any paper into an \u2018agent\u2019 that can collaborate and answer complex queries | Nature",
+      "verification_method": "http_get"
     },
     {
       "url": "https://www.nature.com/articles/s41586-026-11044-y",
       "status": 200,
-      "final": "https://www.nature.com/articles/s41586-026-11044-y?error=cookies_not_supported&code=efb7f3e3-6a56-4b15-9293-2e4dfea13677",
+      "final": "https://www.nature.com/articles/s41586-026-11044-y?error=cookies_not_supported&code=378ebbfd-e1b8-498c-945a-122ad59d81ad",
       "title": "Reimagining research papers as interactive and reliable AI agents | Nature",
-      "bytes": 432068
+      "verification_method": "http_get"
     }
   ]
 }

@@ -479,6 +479,796 @@
       "https://www.anthropic.com/threat-intelligence-report-september-2026",
       null,
       null
+    ],
+    [
+      "2026-08-18",
+      "Agent Lightning v1.0: Towards Harnessed Agentic RL",
+      "Microsoft",
+      "Agent RL / harness",
+      "Preprint",
+      "https://arxiv.org/abs/2608.17528",
+      null,
+      "How to train an existing agent without rewriting it"
+    ],
+    [
+      "2026-08-26",
+      "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution",
+      "—",
+      "Harness",
+      "Preprint",
+      "https://arxiv.org/abs/2608.25593",
+      null,
+      "Generate the harness per task"
+    ],
+    [
+      "2026-09-09",
+      "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+      "survey",
+      "RSI",
+      "Preprint",
+      "https://arxiv.org/abs/2609.11873",
+      null,
+      "Best RSI framing document this month"
+    ],
+    [
+      "2026-09-17",
+      "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+      "NVIDIA",
+      "Harness search",
+      "Preprint",
+      "https://arxiv.org/abs/2609.20519",
+      null,
+      "Auto-research the harness itself"
+    ],
+    [
+      "2026-09-09",
+      "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+      "NVIDIA",
+      "Math / post-training",
+      "Preprint",
+      "https://arxiv.org/abs/2609.10712",
+      null,
+      "Open olympiad recipe"
+    ],
+    [
+      "2026-05-21",
+      "MagenticLite / MagenticBrain / Fara1.5",
+      "Microsoft Research",
+      "Small agents",
+      "Research article",
+      "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+      null,
+      "Small-model agent stack"
+    ],
+    [
+      "2026-06-05",
+      "Superintelligent Retrieval Agent (SIRA)",
+      "Meta",
+      "Retrieval agents",
+      "Research article",
+      "https://ai.meta.com/research/publications/superintelligent-retrieval-agent-the-next-frontier-of-agentic-retrieval/",
+      null,
+      "One-shot corpus-discriminative retrieval"
+    ],
+    [
+      "2026-06-22",
+      "RL Towards Broadly and Persistently Beneficial Models",
+      "OpenAI",
+      "Alignment RL",
+      "Preprint",
+      "https://arxiv.org/abs/2606.24014",
+      null,
+      "OOD alignment transfer"
+    ],
+    [
+      "2026-07-28",
+      "Discovering cryptographic weaknesses with Claude",
+      "Anthropic",
+      "Claude / crypto",
+      "Research article",
+      "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      null,
+      "HAWK + AES papers"
+    ],
+    [
+      "2026-08-18",
+      "The Skill Trigger Bottleneck",
+      "—",
+      "Skills",
+      "Preprint",
+      "https://arxiv.org/abs/2608.12610",
+      null,
+      "Why 56k skills cannot all live in the prompt"
+    ],
+    [
+      "2026-08-24",
+      "Judges as a Lifecycle",
+      "Netflix",
+      "Eval / LLM-as-judge",
+      "Preprint",
+      "https://arxiv.org/abs/2608.18300",
+      null,
+      "How production judges actually stay honest"
+    ],
+    [
+      "2026-08-24",
+      "Can AI agents conduct open-ended AI research?",
+      "Princeton + AISI + Stanford et al.",
+      "Research agents",
+      "Preprint",
+      "https://arxiv.org/abs/2607.27191",
+      null,
+      "Honest negative result: agents finish engineering, not the science"
+    ],
+    [
+      "2026-08-24",
+      "OneDayAgent",
+      "ZJNLP",
+      "Long-horizon",
+      "Preprint",
+      "https://arxiv.org/abs/2608.05013",
+      null,
+      "One prompt, one day, one agent"
+    ],
+    [
+      "2026-08-24",
+      "Toward Skill-Native LLMs / Skill Entropy",
+      "—",
+      "Skills / training",
+      "Preprint",
+      "https://huggingface.co/papers/2608.04007",
+      null,
+      "Skill entropy for long-horizon reasoning"
+    ],
+    [
+      "2026-08-25",
+      "Skill Lift",
+      "—",
+      "Skills",
+      "Preprint",
+      "https://arxiv.org/abs/2608.20614",
+      null,
+      "When a skill actually moves the score"
+    ],
+    [
+      "2026-08-25",
+      "Filesystem-Based Memory for LLM Agents",
+      "Wu et al.",
+      "Memory",
+      "Preprint",
+      "https://arxiv.org/abs/2607.26637",
+      null,
+      "Memory as a folder the agent reorganizes"
+    ],
+    [
+      "2026-08-26",
+      "Context Management as Code",
+      "—",
+      "Memory / context",
+      "Preprint",
+      "https://arxiv.org/abs/2608.21690",
+      null,
+      "Treat context policy as code the model can improve"
+    ],
+    [
+      "2026-08-26",
+      "Visual General Intelligence: A White Paper",
+      "multi-lab incl. DeepMind-adjacent authors",
+      "Vision / AGI",
+      "Preprint",
+      "https://arxiv.org/abs/2608.25924",
+      null,
+      "Readable survey of vision-as-path-to-AGI"
+    ],
+    [
+      "2026-08-26",
+      "Enabling independent research on how people use Claude",
+      "Anthropic + Stanford + Oxford + METR",
+      "Claude / society",
+      "Research article",
+      "https://www.anthropic.com/research/enabling-independent-research",
+      null,
+      "What real Claude usage looks like"
+    ],
+    [
+      "2026-08-26",
+      "The Hugging Face incident and the road ahead",
+      "OpenAI",
+      "Security",
+      "Research article",
+      "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      null,
+      "Incident writeup students can learn from"
+    ],
+    [
+      "2026-08-26",
+      "Thinkingbox: Agents in Stateful Business Workflows",
+      "Microsoft",
+      "Eval / business agents",
+      "Preprint",
+      "https://arxiv.org/abs/2608.19741",
+      null,
+      "Reliability ≠ one success"
+    ],
+    [
+      "2026-08-26",
+      "ClawProBench",
+      "—",
+      "Agent eval",
+      "Preprint",
+      "https://arxiv.org/abs/2608.22510",
+      null,
+      "Trace-aware agent evaluation"
+    ],
+    [
+      "2026-08-26",
+      "AgentOPSD: Recursive Self-Distillation for Agentic RL",
+      "—",
+      "Agent RL",
+      "Preprint",
+      "https://arxiv.org/abs/2608.05987",
+      null,
+      "Turn-level credit without a critic"
+    ],
+    [
+      "2026-07-30",
+      "MemHarness: Memory Is Reconstructed, Not Replayed",
+      "—",
+      "Memory",
+      "Preprint",
+      "https://arxiv.org/abs/2607.28272",
+      null,
+      "Don't paste old traces raw"
+    ],
+    [
+      "2026-08-27",
+      "Accelerating Scientific Research with Gemini in the Real-World (Co-Scientist labs)",
+      "Google DeepMind + partners",
+      "Science agents",
+      "Preprint",
+      "https://arxiv.org/abs/2608.26701",
+      null,
+      "Gemini agents in real wet/dry labs"
+    ],
+    [
+      "2026-08-27",
+      "SKILL.state: Explicit Execution State Replaces Append-Only History",
+      "—",
+      "Skills / state",
+      "Preprint",
+      "https://arxiv.org/abs/2608.26263",
+      null,
+      "State instead of a growing transcript"
+    ],
+    [
+      "2026-08-27",
+      "Prime Agent",
+      "—",
+      "Harness compounding",
+      "Preprint",
+      "https://arxiv.org/abs/2608.23552",
+      null,
+      "Open compounding-harness reference"
+    ],
+    [
+      "2026-08-27",
+      "What Compaction Destroys",
+      "—",
+      "Context / safety",
+      "Preprint",
+      "https://arxiv.org/abs/2608.22752",
+      null,
+      "What dies when you compact AGENTS.md"
+    ],
+    [
+      "2026-08-27",
+      "Recuris",
+      "—",
+      "Self-improvement",
+      "Preprint",
+      "https://arxiv.org/abs/2608.24876",
+      null,
+      "Late-Aug self-improve paper from DAIR list"
+    ],
+    [
+      "2026-08-27",
+      "Meta^n",
+      "—",
+      "Meta-agents",
+      "Preprint",
+      "https://arxiv.org/abs/2608.24735",
+      null,
+      "DAIR late-Aug pick"
+    ],
+    [
+      "2026-08-27",
+      "EvoMal",
+      "—",
+      "Evolution / agents",
+      "Preprint",
+      "https://arxiv.org/abs/2608.25776",
+      null,
+      "DAIR late-Aug pick"
+    ],
+    [
+      "2026-08-28",
+      "LongWoF-Bench / EvoMap Genes",
+      "—",
+      "Long workflows",
+      "Preprint",
+      "https://arxiv.org/abs/2608.23200",
+      null,
+      "Genes vs skills on long workflows"
+    ],
+    [
+      "2026-08-28",
+      "LongRCA Bench: Diagnosing long-horizon agent failures",
+      "—",
+      "Failure attribution",
+      "Preprint",
+      "https://arxiv.org/abs/2608.15242",
+      null,
+      "1,140 failed trajectories"
+    ],
+    [
+      "2026-08-31",
+      "E-Commerce Bench",
+      "—",
+      "Business agents",
+      "Preprint",
+      "https://arxiv.org/abs/2608.30730",
+      null,
+      "Long-horizon commerce tasks"
+    ],
+    [
+      "2026-08-31",
+      "AI Research Preference Models",
+      "—",
+      "Research agents / prefs",
+      "Preprint",
+      "https://arxiv.org/abs/2608.13940",
+      null,
+      "What researchers actually prefer"
+    ],
+    [
+      "2026-08-31",
+      "Selective Forgetting: Graph Memory for Long-Term LLM Agents",
+      "—",
+      "Memory",
+      "Preprint",
+      "https://arxiv.org/abs/2608.28978",
+      null,
+      "Graph memory that can forget"
+    ],
+    [
+      "2026-09-01",
+      "Runtime-Independent Persistent Agents",
+      "—",
+      "Persistence",
+      "Preprint",
+      "https://arxiv.org/abs/2609.00546",
+      null,
+      "Identity and memory across runtimes"
+    ],
+    [
+      "2026-09-02",
+      "Trace as State",
+      "—",
+      "Reasoning / transformers",
+      "Preprint",
+      "https://arxiv.org/abs/2609.02702",
+      null,
+      "Traces as conditional state"
+    ],
+    [
+      "2026-09-02",
+      "CORAL: LLM-native harness for recommenders",
+      "—",
+      "Recsys agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.02730",
+      null,
+      "Production recsys harness"
+    ],
+    [
+      "2026-09-02",
+      "Codebook Agent",
+      "—",
+      "Multi-agent topology",
+      "Preprint",
+      "https://arxiv.org/abs/2609.02264",
+      null,
+      "Amortized topology design"
+    ],
+    [
+      "2026-09-02",
+      "Automated Researchers Can Mitigate Well-characterized Alignment Failures",
+      "Anthropic Fellows + Berkeley",
+      "Claude / alignment",
+      "Preprint",
+      "https://arxiv.org/abs/2608.28945",
+      null,
+      "Claude as automated alignment researcher"
+    ],
+    [
+      "2026-09-03",
+      "GPT-6 Astra System Card",
+      "OpenAI",
+      "Models / safety",
+      "Research article",
+      "https://deploymentsafety.openai.com/gpt-6-astra",
+      null,
+      "Astra hits Critical cyber under Preparedness"
+    ],
+    [
+      "2026-09-03",
+      "STAIR: Structure-Aware Information Retriever",
+      "—",
+      "Retrieval",
+      "Preprint",
+      "https://arxiv.org/abs/2609.03874",
+      null,
+      "Dataset + LLM retriever"
+    ],
+    [
+      "2026-09-04",
+      "AI-Native Design Docs",
+      "—",
+      "ML systems",
+      "Preprint",
+      "https://arxiv.org/abs/2609.05364",
+      null,
+      "Design docs as the interface"
+    ],
+    [
+      "2026-09-06",
+      "Research acceleration: The view inside OpenAI",
+      "OpenAI",
+      "Lab report",
+      "Research article",
+      "https://openai.com/index/research-acceleration-view-inside-openai/",
+      null,
+      "How coding agents changed OpenAI research"
+    ],
+    [
+      "2026-09-06",
+      "PARSER: Read in Parallel, Reason in Depth",
+      "—",
+      "Long-context agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.06702",
+      null,
+      "Parallel read + deep reason"
+    ],
+    [
+      "2026-09-08",
+      "An OpenAI model proposes a solution to the Navier–Stokes problem",
+      "OpenAI",
+      "Math / Lean",
+      "Research article",
+      "https://openai.com/index/navier-stokes-solution/",
+      null,
+      "AI-generated writeup + Lean proof claim"
+    ],
+    [
+      "2026-09-08",
+      "FrogNano: Training a 4B coding agent via online task synthesis",
+      "Microsoft",
+      "Small coding agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.07925",
+      null,
+      "No teacher model"
+    ],
+    [
+      "2026-09-08",
+      "Co-Evolving Harnesses and Models",
+      "—",
+      "Harness + model",
+      "Preprint",
+      "https://arxiv.org/abs/2609.09134",
+      null,
+      "Weaker models catch up via harness"
+    ],
+    [
+      "2026-09-10",
+      "Byte Model Scaling",
+      "—",
+      "Tokenization / small models",
+      "Preprint",
+      "https://arxiv.org/abs/2609.12303",
+      null,
+      "Distilling stronger byte models"
+    ],
+    [
+      "2026-09-10",
+      "GAUGE: When not to trust LLM-as-a-judge",
+      "—",
+      "Eval",
+      "Preprint",
+      "https://arxiv.org/abs/2609.12191",
+      null,
+      "User-simulated eval failure modes"
+    ],
+    [
+      "2026-09-10",
+      "Is Bash All You Need?",
+      "—",
+      "Tool interfaces",
+      "Preprint",
+      "https://arxiv.org/abs/2609.11999",
+      null,
+      "Bash vs typed tools in enterprise"
+    ],
+    [
+      "2026-01",
+      "Autoregressive Ranking",
+      "Google DeepMind + UMass + UT Austin",
+      "IR / LLMs",
+      "Preprint",
+      "https://arxiv.org/abs/2601.05588",
+      null,
+      "Jan paper; Sep journalism. Do not treat as Sep drop."
+    ],
+    [
+      "2026-09-11",
+      "OpenResearcher v2 (trajectory synthesis)",
+      "TIGER-AI-Lab",
+      "Deep research data",
+      "Preprint",
+      "https://arxiv.org/abs/2603.20278",
+      null,
+      "97k offline research trajectories"
+    ],
+    [
+      "2026-09-11",
+      "ZGCM-1 open 7B math + agentic search",
+      "—",
+      "Open models",
+      "Preprint",
+      "https://arxiv.org/abs/2609.13356",
+      null,
+      "Fully open recipe"
+    ],
+    [
+      "2026-09-14",
+      "OpenAI4S: Code as Action, Science as Sessions",
+      "—",
+      "Science agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.15096",
+      null,
+      "Open science-session agent"
+    ],
+    [
+      "2026-09-14",
+      "Salesforce Koa",
+      "Salesforce",
+      "Enterprise agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.15066",
+      null,
+      "Enterprise LM for tool use"
+    ],
+    [
+      "2026-09-14",
+      "Capability Laundering",
+      "—",
+      "Safety",
+      "Preprint",
+      "https://arxiv.org/abs/2609.15383",
+      null,
+      "Divide-consult-conquer capability hiding"
+    ],
+    [
+      "2026-09-14",
+      "Recursive Reasoning or Statistical Extrapolation?",
+      "Liu et al.",
+      "Multi-agent ICL",
+      "Preprint",
+      "https://arxiv.org/abs/2609.18591",
+      null,
+      "ICL looks like pattern fit, not theory of mind"
+    ],
+    [
+      "2026-09-15",
+      "Mo Models Mo Problems: selecting model pools",
+      "—",
+      "Multi-agent design",
+      "Preprint",
+      "https://arxiv.org/abs/2609.17306",
+      null,
+      "How to pick the model roster"
+    ],
+    [
+      "2026-09-15",
+      "Fuse: Verifiable social reasoning",
+      "—",
+      "Social / assistants",
+      "Preprint",
+      "https://arxiv.org/abs/2609.17496",
+      null,
+      "Verifiable social reasoning"
+    ],
+    [
+      "2026-09-15",
+      "Skill-Based Agentic Evaluation for Real-Time Data Science",
+      "—",
+      "Eval / DS agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.16487",
+      null,
+      "Skills as the eval unit"
+    ],
+    [
+      "2026-09-16",
+      "DeepMind Institute launch essays",
+      "DeepMind Institute",
+      "AGI policy / ideas",
+      "Research article",
+      "https://institute.deepmind.com/",
+      null,
+      "Hassabis, Manyika, Legg forum"
+    ],
+    [
+      "2026-09-16",
+      "HPOQuest: Rare-Disease Diagnostic Agent",
+      "Zaripova et al.",
+      "Medical agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.18431",
+      null,
+      "Active phenotype acquisition"
+    ],
+    [
+      "2026-09-16",
+      "Compiled Agency: coding agents build game players",
+      "Xiao & Huang",
+      "Coding agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.18996",
+      null,
+      "From Flappy Bird to StarCraft/Civ"
+    ],
+    [
+      "2026-09-16",
+      "Social Laws for Multi-agent Coordination",
+      "Bentert et al.",
+      "Multi-agent theory",
+      "Preprint",
+      "https://arxiv.org/abs/2609.18929",
+      null,
+      "ICAPS workshop paper"
+    ],
+    [
+      "2026-09-16",
+      "Where Should Agents Live? Energy-Memory on the Edge-Cloud Continuum",
+      "—",
+      "Systems / agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.18283",
+      null,
+      "Where to place the agent"
+    ],
+    [
+      "2026-09-16",
+      "Routing Multiple Agents Below the Sum of Distances",
+      "Bentert, Eiben, Fomin et al.",
+      "Multi-agent theory",
+      "Preprint",
+      "https://arxiv.org/abs/2609.18802",
+      null,
+      "Combinatorial routing"
+    ],
+    [
+      "2026-09-16",
+      "ReFigBench",
+      "—",
+      "Science agents / figures",
+      "Preprint",
+      "https://arxiv.org/abs/2609.18805",
+      null,
+      "Reconstruct figures as PPT artifacts"
+    ],
+    [
+      "2026-09-16",
+      "Taming the Agentic RAN",
+      "—",
+      "Telecom agents",
+      "Preprint",
+      "https://arxiv.org/abs/2609.18853",
+      null,
+      "Stability-guaranteed O-RAN agents"
+    ],
+    [
+      "2026-09-17",
+      "Accelerating open-source biomolecular models with Claude",
+      "Anthropic Claude Science",
+      "Claude / biology",
+      "Research article",
+      "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      null,
+      "36 model impls optimized; FlashPairformer"
+    ],
+    [
+      "2026-09-17",
+      "Measurements for understanding the pace of AI development inside frontier labs",
+      "Anthropic",
+      "Claude / lab ops",
+      "Research article",
+      "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      null,
+      "Claude leads 26% of internal research tasks"
+    ],
+    [
+      "2026-09-17",
+      "Scaling Discovery through Test-Time Communication (Team-of-N vs Best-of-N)",
+      "Microsoft Research",
+      "Multi-agent",
+      "Preprint",
+      "https://arxiv.org/abs/2609.21032",
+      null,
+      "Talking teams beat independent copies"
+    ],
+    [
+      "2026-09-22",
+      "Capable yet Parsimonious: Hidden Chain-of-Thought in Frontier Models",
+      "—",
+      "Reasoning / CoT",
+      "Preprint",
+      "https://arxiv.org/abs/2609.26637",
+      null,
+      "Extract hidden CoT incl. GPT-6 Astra"
+    ],
+    [
+      "2026-09-23",
+      "Introducing MentalHealthBench",
+      "OpenAI",
+      "Safety / eval",
+      "Research article",
+      "https://openai.com/index/introducing-mentalhealthbench/",
+      null,
+      "Mental-health conversation bench"
+    ],
+    [
+      "2026-09-23",
+      "HyperAgents / DGM-H listing",
+      "Meta + collab",
+      "Self-improving agents",
+      "Research article",
+      "https://ai.meta.com/research/publications/hyperagents/",
+      null,
+      "Meta-agent that edits its own improver"
+    ],
+    [
+      "2026-09-24",
+      "The Past Frames the Future: Memory for Autoregressive Video Generation",
+      "Zhang et al.",
+      "Video / memory",
+      "Preprint",
+      "https://arxiv.org/abs/2609.28466",
+      null,
+      "Survey of memory in video models"
+    ],
+    [
+      "2026-09-24",
+      "SpeakerMem-R1",
+      "—",
+      "Dialogue memory",
+      "Preprint",
+      "https://arxiv.org/abs/2609.26780",
+      null,
+      "Multi-party dialogue memory"
+    ],
+    [
+      "2026-09-24",
+      "RewardVerse",
+      "—",
+      "Video RM",
+      "Preprint",
+      "https://arxiv.org/abs/2609.22947",
+      null,
+      "Rubric-guided video reward models"
     ]
   ],
   "indexes": [
@@ -571,6 +1361,403 @@
       "https://research.google/blog/",
       null,
       null
+    ],
+    [
+      "ongoing",
+      "masamasa59 AI agent papers",
+      "community",
+      "Index",
+      "Research index",
+      "https://github.com/masamasa59/ai-agent-papers",
+      null,
+      null
+    ],
+    [
+      "ongoing",
+      "Hugging Face Daily Papers",
+      "HF",
+      "Index",
+      "Research index",
+      "https://huggingface.co/papers",
+      null,
+      null
+    ],
+    [
+      "ongoing",
+      "Anthropic research",
+      "Anthropic",
+      "Index",
+      "Research index",
+      "https://www.anthropic.com/research",
+      null,
+      null
+    ],
+    [
+      "ongoing",
+      "Meta AI publications",
+      "Meta",
+      "Index",
+      "Research index",
+      "https://ai.meta.com/results/?amp%3Bsort_by=most_recent&content_types%5B0%5D=publication",
+      null,
+      null
+    ],
+    [
+      "ongoing",
+      "Microsoft Research AI blog",
+      "Microsoft",
+      "Index",
+      "Research index",
+      "https://www.microsoft.com/en-us/research/blog/",
+      null,
+      null
     ]
-  ]
+  ],
+  "featured": [
+    [
+      [
+        "2609.14858"
+      ],
+      "Dream-RSI",
+      "To know what “Google RSI” actually is",
+      "Weights stay frozen. The system rewrites exploration-policy code using past discovery trees."
+    ],
+    [
+      [
+        "2608.27454"
+      ],
+      "WikiSkill",
+      "The skill/wiki paper everyone cites",
+      "Agent experience becomes a persistent wiki that informs reusable, evolving skills."
+    ],
+    [
+      [
+        "s41586-026-11044-y"
+      ],
+      "Paper2Agent",
+      "A new way to use papers",
+      "Stanford’s Nature paper turns research and code into interactive agents. Works with Claude Code."
+    ],
+    [
+      [
+        "2609.09153"
+      ],
+      "Procedural Graphs",
+      "Why long-horizon agents lose the plot",
+      "An approach to planning with execution structures that agents can inspect and evolve."
+    ],
+    [
+      [
+        "2609.02737"
+      ],
+      "Declarative Attention",
+      "Long context without another RAG lecture",
+      "Language models explicitly declare where to attend, making attention more selective."
+    ],
+    [
+      [
+        "2609.01481"
+      ],
+      "Harness-of-Harness",
+      "Agents that run for days",
+      "A framework for multi-day autonomous software development with continual improvement."
+    ],
+    [
+      [
+        "2609.15983"
+      ],
+      "Stellar Colosseum",
+      "What a research-agent harness looks like",
+      "Google Research’s many-agent approach to long-horizon mathematics and theoretical computer science."
+    ],
+    [
+      [
+        "2608.17528"
+      ],
+      "Agent Lightning v1.0",
+      "How to RL an agent that already has a harness",
+      "Microsoft’s reinforcement-learning framework trains agents while retaining their existing harnesses."
+    ],
+    [
+      [
+        "threat-intelligence-report-september-2026"
+      ],
+      "Claude misuse",
+      "What real-world misuse of Claude looks like",
+      "Anthropic’s September report documents disrupted operations across cyberattacks, surveillance, fraud, and other harm areas."
+    ],
+    [
+      [
+        "2609.20519",
+        "2609.10712"
+      ],
+      "The NVIDIA pair",
+      "How NVIDIA improves harnesses and mathematical reasoning",
+      "SoL-Pi evolves efficient agent harnesses. An Open Recipe for IMO Gold describes Nemotron’s training and proof-search pipeline."
+    ],
+    [
+      [
+        "2608.25593"
+      ],
+      "JIT-Agent",
+      "“The harness is the model” made concrete",
+      "A model generates task-specific harnesses just in time, then repairs and improves them."
+    ],
+    [
+      [
+        "2609.11873"
+      ],
+      "Toward Genuine Recursive Self-Improvement",
+      "Vocabulary so RSI threads don’t eat you",
+      "A survey of recursive self-improvement: definitions, mechanisms, and the gap between current systems and the larger claim."
+    ]
+  ],
+  "related": {
+    "https://arxiv.org/abs/2608.27454": [
+      {
+        "url": "https://arxiv.org/html/2608.27454v1",
+        "label": "HTML"
+      },
+      {
+        "url": "https://github.com/ashutoshsinghpr7/wikiskill",
+        "label": "Code"
+      }
+    ],
+    "https://arxiv.org/abs/2609.00065": [],
+    "https://arxiv.org/abs/2609.01588": [
+      {
+        "url": "https://deepmind.google/research/publications/265605/",
+        "label": "Related article"
+      },
+      {
+        "url": "https://arxiv.org/html/2609.01588v1",
+        "label": "HTML"
+      }
+    ],
+    "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/": [],
+    "https://arxiv.org/abs/2609.00549": [],
+    "https://arxiv.org/abs/2609.01487": [],
+    "https://arxiv.org/abs/2609.01481": [
+      {
+        "url": "https://github.com/Flesymeb/HarnessOfHarness",
+        "label": "Code"
+      }
+    ],
+    "https://arxiv.org/abs/2609.02737": [
+      {
+        "url": "https://arxiv.org/pdf/2609.02737",
+        "label": "PDF"
+      }
+    ],
+    "https://arxiv.org/abs/2609.02094": [],
+    "https://arxiv.org/abs/2609.02042": [],
+    "https://arxiv.org/abs/2609.03582": [
+      {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+        "label": "Related article"
+      },
+      {
+        "url": "https://developers.google.com/weathernext/guides/models",
+        "label": "WeatherNext developers guide"
+      },
+      {
+        "url": "https://developers.google.com/weathernext/guides/research",
+        "label": "WeatherNext research page"
+      },
+      {
+        "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+        "label": "WeatherNext 3 Ars Technica"
+      }
+    ],
+    "https://doi.org/10.1016/j.cell.2026.08.015": [
+      {
+        "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+        "label": "Related article"
+      },
+      {
+        "url": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
+        "label": "Fruit-fly map Google consumer blog"
+      }
+    ],
+    "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/": [],
+    "https://arxiv.org/abs/2609.04170": [
+      {
+        "url": "https://arxiv.org/pdf/2609.04170",
+        "label": "PDF"
+      }
+    ],
+    "https://arxiv.org/abs/2609.03753": [],
+    "https://arxiv.org/abs/2609.05232": [],
+    "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/alphagenome-atlas.pdf": [
+      {
+        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+        "label": "Related article"
+      },
+      {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+        "label": "AlphaGenome Atlas Google blog"
+      },
+      {
+        "url": "https://www.nature.com/articles/d41586-026-02835-4",
+        "label": "AlphaGenome Nature news"
+      }
+    ],
+    "https://arxiv.org/abs/2609.09153": [],
+    "https://research.google/conferences-and-events/google-at-eccv-2026/": [],
+    "https://arxiv.org/abs/2609.10750": [],
+    "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/": [],
+    "https://arxiv.org/abs/2609.11682": [],
+    "https://arxiv.org/abs/2609.11042": [
+      {
+        "url": "https://arxiv.org/html/2609.11042",
+        "label": "HTML"
+      }
+    ],
+    "https://arxiv.org/abs/2609.14858": [
+      {
+        "url": "https://www.dream-rsi.com/",
+        "label": "Project"
+      },
+      {
+        "url": "https://github.com/zhengkid/Dream-RSI",
+        "label": "Code"
+      },
+      {
+        "url": "https://arxiv.org/html/2609.14858",
+        "label": "HTML"
+      }
+    ],
+    "https://arxiv.org/abs/2609.15983": [],
+    "https://arxiv.org/abs/2609.15820": [],
+    "https://arxiv.org/abs/2609.15938": [],
+    "https://arxiv.org/abs/2609.15973": [],
+    "https://arxiv.org/abs/2609.15982": [],
+    "https://arxiv.org/abs/2609.16305": [],
+    "https://arxiv.org/abs/2609.15859": [],
+    "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/": [],
+    "https://arxiv.org/abs/2609.17846": [],
+    "https://arxiv.org/abs/2609.16936": [],
+    "https://arxiv.org/abs/2609.17380": [],
+    "https://arxiv.org/abs/2609.17632": [],
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/": [],
+    "https://www.nature.com/articles/s41586-026-11044-y": [
+      {
+        "url": "https://github.com/jmiao24/Paper2Agent",
+        "label": "Code"
+      },
+      {
+        "url": "https://www.nature.com/articles/d41586-026-02899-2",
+        "label": "Paper2Agent Nature news"
+      },
+      {
+        "url": "https://med.stanford.edu/news/all-news/2026/09/ai-agents-talk.html",
+        "label": "Paper2Agent Stanford Medicine news"
+      }
+    ],
+    "https://arxiv.org/abs/2609.19128": [],
+    "https://arxiv.org/abs/2609.18779": [],
+    "https://arxiv.org/abs/2609.18849": [],
+    "https://arxiv.org/abs/2609.18864": [],
+    "https://arxiv.org/abs/2609.17708": [
+      {
+        "url": "https://arxiv.org/html/2609.17708v1",
+        "label": "HTML"
+      }
+    ],
+    "https://github.com/google-deepmind/amplio": [],
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/": [],
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/": [],
+    "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/": [],
+    "https://www.anthropic.com/threat-intelligence-report-september-2026": [],
+    "https://arxiv.org/abs/2608.17528": [],
+    "https://arxiv.org/abs/2608.25593": [],
+    "https://arxiv.org/abs/2609.11873": [],
+    "https://arxiv.org/abs/2609.20519": [],
+    "https://arxiv.org/abs/2609.10712": [],
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/": [],
+    "https://ai.meta.com/research/publications/superintelligent-retrieval-agent-the-next-frontier-of-agentic-retrieval/": [],
+    "https://arxiv.org/abs/2606.24014": [],
+    "https://www.anthropic.com/research/discovering-cryptographic-weaknesses": [],
+    "https://arxiv.org/abs/2608.12610": [],
+    "https://arxiv.org/abs/2608.18300": [],
+    "https://arxiv.org/abs/2607.27191": [],
+    "https://arxiv.org/abs/2608.05013": [],
+    "https://huggingface.co/papers/2608.04007": [],
+    "https://arxiv.org/abs/2608.20614": [],
+    "https://arxiv.org/abs/2607.26637": [],
+    "https://arxiv.org/abs/2608.21690": [],
+    "https://arxiv.org/abs/2608.25924": [
+      {
+        "url": "https://deepmind.google/research/publications/270149/",
+        "label": "VGI DeepMind publication page"
+      }
+    ],
+    "https://www.anthropic.com/research/enabling-independent-research": [],
+    "https://openai.com/index/hugging-face-incident-and-the-road-ahead/": [],
+    "https://arxiv.org/abs/2608.19741": [],
+    "https://arxiv.org/abs/2608.22510": [],
+    "https://arxiv.org/abs/2608.05987": [],
+    "https://arxiv.org/abs/2607.28272": [],
+    "https://arxiv.org/abs/2608.26701": [],
+    "https://arxiv.org/abs/2608.26263": [],
+    "https://arxiv.org/abs/2608.23552": [],
+    "https://arxiv.org/abs/2608.22752": [],
+    "https://arxiv.org/abs/2608.24876": [],
+    "https://arxiv.org/abs/2608.24735": [],
+    "https://arxiv.org/abs/2608.25776": [],
+    "https://arxiv.org/abs/2608.23200": [],
+    "https://arxiv.org/abs/2608.15242": [],
+    "https://arxiv.org/abs/2608.30730": [],
+    "https://arxiv.org/abs/2608.13940": [],
+    "https://arxiv.org/abs/2608.28978": [],
+    "https://arxiv.org/abs/2609.00546": [],
+    "https://arxiv.org/abs/2609.02702": [],
+    "https://arxiv.org/abs/2609.02730": [],
+    "https://arxiv.org/abs/2609.02264": [],
+    "https://arxiv.org/abs/2608.28945": [],
+    "https://deploymentsafety.openai.com/gpt-6-astra": [],
+    "https://arxiv.org/abs/2609.03874": [],
+    "https://arxiv.org/abs/2609.05364": [],
+    "https://openai.com/index/research-acceleration-view-inside-openai/": [],
+    "https://arxiv.org/abs/2609.06702": [],
+    "https://openai.com/index/navier-stokes-solution/": [],
+    "https://arxiv.org/abs/2609.07925": [],
+    "https://arxiv.org/abs/2609.09134": [],
+    "https://arxiv.org/abs/2609.12303": [],
+    "https://arxiv.org/abs/2609.12191": [],
+    "https://arxiv.org/abs/2609.11999": [],
+    "https://arxiv.org/abs/2601.05588": [],
+    "https://arxiv.org/abs/2603.20278": [
+      {
+        "url": "https://github.com/TIGER-AI-Lab/OpenResearcher",
+        "label": "Code"
+      }
+    ],
+    "https://arxiv.org/abs/2609.13356": [],
+    "https://arxiv.org/abs/2609.15096": [],
+    "https://arxiv.org/abs/2609.15066": [],
+    "https://arxiv.org/abs/2609.15383": [],
+    "https://arxiv.org/abs/2609.18591": [],
+    "https://arxiv.org/abs/2609.17306": [],
+    "https://arxiv.org/abs/2609.17496": [],
+    "https://arxiv.org/abs/2609.16487": [],
+    "https://institute.deepmind.com/": [],
+    "https://arxiv.org/abs/2609.18431": [],
+    "https://arxiv.org/abs/2609.18996": [],
+    "https://arxiv.org/abs/2609.18929": [],
+    "https://arxiv.org/abs/2609.18283": [],
+    "https://arxiv.org/abs/2609.18802": [],
+    "https://arxiv.org/abs/2609.18805": [],
+    "https://arxiv.org/abs/2609.18853": [],
+    "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling": [],
+    "https://www.anthropic.com/institute/measuring-pace-of-ai-development": [],
+    "https://arxiv.org/abs/2609.21032": [],
+    "https://arxiv.org/abs/2609.26637": [],
+    "https://openai.com/index/introducing-mentalhealthbench/": [],
+    "https://ai.meta.com/research/publications/hyperagents/": [],
+    "https://arxiv.org/abs/2609.28466": [],
+    "https://arxiv.org/abs/2609.26780": [],
+    "https://arxiv.org/abs/2609.22947": []
+  },
+  "updated": "2026-09-24"
 }

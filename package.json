@@ -1,0 +1,16 @@
+{
+  "name": "september-research",
+  "private": true,
+  "version": "1.1.0",
+  "type": "module",
+  "scripts": {
+    "build:motion": "esbuild src/motion.js --bundle --minify --format=iife --target=es2020 --legal-comments=linked --outfile=motion.js",
+    "check": "node --check library.js && node --check src/motion.js && node --check motion.js"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.10"
+  }
+}
